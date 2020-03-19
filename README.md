@@ -5,5 +5,4 @@ This is developed using
 --> numpy
 --> matplotlib
 --> scikit-learn
---> BeautifulSoup
 Using worldmeter as source.
